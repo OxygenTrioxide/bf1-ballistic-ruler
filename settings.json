@@ -1,0 +1,13 @@
+{
+ "weapon": "火炮装甲车 75mm炮 (实测校准)",
+ "zero": 0,
+ "zoom": 1.0,
+ "fov": 90.0,
+ "fov_vehicle": 55.0,
+ "fov_axis": "vertical",
+ "calib": 1.0,
+ "color": "#39FF14",
+ "max_dist": 2000,
+ "visible": false,
+ "tick_step": 25
+}
